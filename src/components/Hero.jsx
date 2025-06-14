@@ -20,7 +20,7 @@ export default function Hero() {
         </div>
         <div className="md:w-1/2 flex justify-center">
           <img
-            src="./src/public/Write a review.svg"
+            src="./public/Write a review.svg"
             alt="Ilustração de pessoa escrevendo"
             className="w-full max-w-sm"
           />

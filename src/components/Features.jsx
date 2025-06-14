@@ -3,19 +3,19 @@ const items = [
     title: 'Escreva redações com temas motivadores',
     text:
       'Escreva sobre assuntos relevantes e desafiadores com o apoio de sugestões de temas que estimulem o pensamento crítico e a criatividade.',
-    icon: './src/assets/lapis.svg',
+    icon: './lapis.svg',
   },
   {
     title: 'Revise seu texto de forma automática',
     text:
       'Receba uma nota geral e individual por competência, com comentários personalizados que te ajudam a entender exatamente o que melhorar.',
-    icon: './src/assets/lupa.svg',
+    icon: './lupa.svg',
   },
   {
     title: 'Acompanhe sua evolução na escrita',
     text:
       'Acesse seu histórico ao longo do tempo com todas as suas redações, notas gerais e individuais, correções aplicadas e progressos nas competências.',
-    icon: './src/assets/grafico.svg',
+    icon: './grafico.svg',
   },
 ];
 
