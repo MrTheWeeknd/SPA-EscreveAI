@@ -3,7 +3,7 @@ export default function CTA() {
     <section className="py-20 bg-gray-100">
       <div className="max-w-md mx-auto bg-white p-8 rounded-xl text-center shadow">
         <img
-          src="/Start up idea.svg"
+          src="./Start up idea.svg"
           alt="Ícone de lâmpada"
           className="mx-auto mb-6 w-68 h-68"
         />
